@@ -1,0 +1,12 @@
+{
+  "name": "adventure-game-in-terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
