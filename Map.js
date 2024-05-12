@@ -35,7 +35,8 @@ class Map {
     // Last row,first col should be the starting pos (bottom-left corner)
     this.map[this.row - 1][0] = new MapObject('🤺', 'player');
 
-    console.log('finish init');
+    console.log('Game Start! \n');
+    this.player.describe();
     this.startGame();
   }
 
